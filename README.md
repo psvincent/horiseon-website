@@ -18,3 +18,6 @@
 5. Changed the .hero class to not be a background image and changed the css to compliment it as an actual image instead of a background image.
 ### Linked Deployed Application
 https://psvincent.github.io/week1challenge/
+### Screenshots of live application
+![Screenshot](assets/images/Screenshot%20(1).png)
+![Screenshot](assets/images/Screenshot%20(2).png)
