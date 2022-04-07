@@ -1,4 +1,4 @@
-# week1challenge
+# Horiseon Website
 ## Description
 ### Head in html
 1. Changed the title from "Website" to Horiseon Social Solution Services.
